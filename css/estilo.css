@@ -1,0 +1,64 @@
+header {
+  background-color: black;
+}
+header .navbar-nav .nav-link {
+  color: #FFFFFF;
+}
+header .navbar-nav .nav-link:hover {
+  color: black;
+  background-color: #FFFFFF;
+}
+header .logo {
+  width: 12rem;
+}
+
+footer {
+  background-color: black;
+}
+footer .banderas {
+  width: 3rem;
+}
+
+body {
+  background-color: black;
+}
+body .fuentes {
+  font-size: 1rem;
+  padding: 2rem;
+  text-transform: uppercase;
+}
+
+main {
+  background-color: black;
+}
+main .personas {
+  width: 400px;
+}
+main .videoPrincipal {
+  width: 100%;
+  height: 600px;
+}
+main .logoCliente {
+  width: 100px;
+}
+main .fondoClientes {
+  background-color: #FFFFFF;
+}
+main .boton {
+  border: none;
+  border-radius: 10px;
+  padding: 10px 20px;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #666666;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.funteFooter {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  color: white;
+}
+
+/*# sourceMappingURL=estilo.css.map */

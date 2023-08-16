@@ -1,0 +1,19 @@
+header {
+	background-color: $fondos;
+
+
+	.navbar-nav {
+		.nav-link {
+			color: #FFFFFF;
+
+			&:hover {
+				color: black;
+				background-color: #FFFFFF;
+			}
+		}
+	}
+
+	.logo {
+		width: 12rem;
+	}
+}

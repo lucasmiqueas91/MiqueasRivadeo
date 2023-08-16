@@ -1,0 +1,9 @@
+@mixin fuenteFooter {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    color: white;
+}
+
+.funteFooter {
+    @include fuenteFooter
+}
